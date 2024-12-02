@@ -2,6 +2,8 @@
 
 #### 介绍
 
+**为了支持hyperf**
+
 **得益于 gd、imagick、phpqrcode、wkhtmltopdf**
 
 **主要为了封装一个生成图片便捷的插件，非常感谢使用到的所有工具背后开发者的贡献**
